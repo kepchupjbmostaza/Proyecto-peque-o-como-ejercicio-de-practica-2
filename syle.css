@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeeeee;
+    margin: 0;
+}
+
+header {
+    background-color: #222222;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header h1 {
+    margin: 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
+
+.tarjeta {
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0 4px 10px #aaaaaa;
+}
+
+.tarjeta h2 {
+    color: #333333;
+}
+
+.tarjeta p {
+    color: #555555;
+    line-height: 1.6;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #333333;
+    color: white;
+    border: none;
+    padding: 12px 20px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #555555;
+}
+
+footer {
+    text-align: center;
+    background-color: #222222;
+    color: white;
+    padding: 15px;
+}
