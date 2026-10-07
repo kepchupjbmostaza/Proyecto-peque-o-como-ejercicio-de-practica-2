@@ -1,0 +1,35 @@
+# Mi Página Personal
+
+Pequeña página creada con **HTML y CSS** como ejercicio de frontend.
+
+## Descripción
+
+Esta página presenta información personal básica, incluyendo:
+
+- Nombre y profesión.
+- Una pequeña descripción.
+- Lista de intereses.
+- Botón de contacto.
+- Pie de página.
+
+## Tecnologías utilizadas
+
+- HTML
+- CSS
+
+## Estructura del proyecto
+
+mi-pagina/
+├── index.html
+├── style.css
+└── README.md
+```
+
+## Cómo ejecutar
+
+1. Descarga o clona el proyecto desde Github.
+2. Abre el archivo `index.html` en cualquier navegador.
+
+## Autor
+
+kepchujb
